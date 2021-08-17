@@ -1,5 +1,5 @@
 ### Olá, eu sou Deivison Barbosa👋
-- 🔭 Sou estudante de ADS na Fatec Mogi Mirim
+- 🔭 Sou estudante de ADS na Fatec Mogi Mirim-SP
 - 🌱 Estou estudando C, SQL server, Java
 - 😄 Pronouns: Ele/Dele
 
