@@ -1,4 +1,4 @@
-### Olá, eu sou Deivison Barbosa👋
+### Olá, sou o Deivison Barbosa👋
 - 🔭 Sou estudante de ADS na Fatec Mogi Mirim-SP
 - 🌱 Estou estudando C, SQL server, Java
 - 😄 Pronouns: Ele/Dele
