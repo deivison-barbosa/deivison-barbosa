@@ -1,6 +1,6 @@
 ### Olá, sou o Deivison Barbosa👋
-- 🔭 Sou estudante de ADS na Fatec Mogi Mirim-SP
-- 🌱 Estou estudando C, SQL server, Java
+- 🔭 Sou estudante de ADS na UniBF
+- 🌱 Estou estudando HTML, CSS3, Javascript, ReactJs
 - 😄 Pronouns: Ele/Dele
 
 
