@@ -1,6 +1,6 @@
 ### Olá, sou o Deivison Barbosa👋
 - 🔭 Sou estudante de ADS na UniBF
-- 🌱 Estou estudando HTML, CSS3, Javascript, ReactJs
+- 🌱 Estou estudando Java, Python.
 - 😄 Pronouns: Ele/Dele
 
 
